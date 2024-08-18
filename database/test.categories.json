@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "name": "Món Lẩu",
+  "created_at": "8/3/2024, 10:39:07 AM",
+  "updated_at": "8/5/2024, 9:58:42 AM"
+},
+{
+  "_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "name": "Món Nước",
+  "created_at": "8/3/2024, 10:39:18 AM",
+  "updated_at": "8/5/2024, 9:58:55 AM"
+},
+{
+  "_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "name": "Món Mặn",
+  "created_at": "8/3/2024, 10:39:27 AM",
+  "updated_at": "8/5/2024, 9:59:06 AM"
+},
+{
+  "_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "name": "Món Gỏi",
+  "created_at": "8/3/2024, 10:39:33 AM",
+  "updated_at": "8/5/2024, 9:59:15 AM"
+},
+{
+  "_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "name": "Món Ăn Kèm",
+  "created_at": "8/3/2024, 10:40:08 AM",
+  "updated_at": "8/5/2024, 9:59:25 AM"
+},
+{
+  "_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "name": "Món Bánh",
+  "created_at": "8/3/2024, 12:19:23 AM",
+  "updated_at": "8/5/2024, 9:59:52 AM"
+},
+{
+  "_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "name": "Món Nhậu",
+  "created_at": "8/4/2024, 8:11:05 PM",
+  "updated_at": "8/5/2024, 10:00:11 AM"
+},
+{
+  "_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "name": "Đặc Sản",
+  "created_at": "8/4/2024, 8:26:41 PM",
+  "updated_at": "8/5/2024, 10:00:23 AM"
+}]

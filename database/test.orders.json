@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "66bdfab1178a9115340e986d"
+  },
+  "customer_id": {
+    "$oid": "66adf10bde4704ce0ebbf158"
+  },
+  "name": "Tuyền Tuyền",
+  "phone": "0948337762",
+  "address": "419 Lê thị riêng, TPHCM",
+  "products": [
+    {
+      "product_id": "65478d998a4b078c9177fb45",
+      "name": "Bún Mắm",
+      "description": "Bún mắm miền Tây, một món ăn tinh tế thể hiện nét văn hóa và truyền thống dân dã của vùng sông nước. Với hương vị độc đáo từ mắm cá linh hoặc cá sặc, món ăn này kết hợp hài hòa giữa hải sản tươi ngon và các loại rau sống đặc trưng. Món bún mắm thường được ăn kèm với nhiều loại rau sống phong phú như thèo nèo, bông súng, hẹ, rau muống, hoa chuối bào, rau đắng, tạo nên một bữa ăn ngon miệng, đầy màu sắc và giàu dinh dưỡng.",
+      "image": "uploads\\bun_mam.png",
+      "price": 47000,
+      "quantity_sale": 2,
+      "category_id": "654076e662ca687c4200307c",
+      "subtotal": 94000
+    }
+  ],
+  "total": 114000,
+  "status": 4,
+  "created_at": "07:55:13 PM, 15/08/2024",
+  "updated_at": "08:21:40 PM, 15/08/2024",
+  "accept_at": "08:02:35 PM, 15/08/2024",
+  "ship_at": "08:17:37 PM, 15/08/2024",
+  "arrive_at": "08:21:40 PM, 15/08/2024"
+},
+{
+  "_id": {
+    "$oid": "66be01e5178a9115340e986e"
+  },
+  "customer_id": {
+    "$oid": "66adf10bde4704ce0ebbf158"
+  },
+  "name": "Tuyền Tuyền",
+  "phone": "0948337762",
+  "address": "419 Lê thị riêng, TPHCM",
+  "products": [
+    {
+      "product_id": "654a3e352bb6c3a91d1d7c0a",
+      "name": "Hủ Tiếu Sa Đéc",
+      "description": "Tô hủ tiếu Sa Đéc với nước súp trong, sợi bánh trắng, điểm vài miếng thịt, tim, gan, lòng heo, có khi tôm, thịt nạt bằm, kèm theo hẹ, xà lách, hành, chanh ớt,… bốc mùi thơm phức, ngay phút đầu gợi cho thực khách một bữa ăn ngon miệng.",
+      "image": "uploads\\hu_tieu_sa_dec.png",
+      "price": 40000,
+      "quantity_sale": 1,
+      "category_id": "654076e662ca687c4200307c",
+      "subtotal": 40000
+    }
+  ],
+  "total": 60000,
+  "status": 3,
+  "created_at": "08:25:57 PM, 15/08/2024",
+  "updated_at": "08:27:03 PM, 15/08/2024",
+  "accept_at": "08:26:38 PM, 15/08/2024",
+  "cancle_at": "08:27:03 PM, 15/08/2024"
+}]

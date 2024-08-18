@@ -1,0 +1,1003 @@
+[{
+  "_id": {
+    "$oid": "65478d998a4b078c9177fb45"
+  },
+  "name": "Bún Mắm",
+  "description": "Bún mắm miền Tây, một món ăn tinh tế thể hiện nét văn hóa và truyền thống dân dã của vùng sông nước. Với hương vị độc đáo từ mắm cá linh hoặc cá sặc, món ăn này kết hợp hài hòa giữa hải sản tươi ngon và các loại rau sống đặc trưng. Món bún mắm thường được ăn kèm với nhiều loại rau sống phong phú như thèo nèo, bông súng, hẹ, rau muống, hoa chuối bào, rau đắng, tạo nên một bữa ăn ngon miệng, đầy màu sắc và giàu dinh dưỡng.",
+  "price": "47000",
+  "image": "uploads\\bun_mam.png",
+  "quantity": 30,
+  "quantity_sale": 2,
+  "quantity_remain": 28,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "8/6/2024, 5:32:01 PM",
+  "updated_at": "8/6/2024, 5:32:01 PM"
+},
+{
+  "_id": {
+    "$oid": "65478dc68a4b078c9177fb46"
+  },
+  "name": "Bún Cá Châu Đốc",
+  "description": "Bún Cá Châu Đốc xưa dùng con cá linh nấu lấy nước ngọt, thêm tôm khô cho đậm đà và không thể thiếu ngải bún, mắm ruốc, sả, ớt, tỏi, nghệ tươi. Bún cá Châu Đốc ngày nay vẫn giữ gần như nguyên bản, mộc mạc với cá lóc, nước lèo và bún tươi. Nước lèo được nấu bằng xương ống ninh lấy nước ngọt, vừa ninh phải vừa vớt bọt để nước dùng luôn trong. Con cá lóc đồng làm sạch luộc chín trong nước luộc sả và củ nghệ đập dập nên không tanh, lại có mùi thơm thoang thoảng. Thịt cá được gỡ xương, đem ướp gia vị rồi xào sơ với nghệ để thịt săn lại, có màu vàng đẹp mắt.",
+  "price": "40000",
+  "image": "uploads\\bun_ca_chau_doc.png",
+  "quantity": 14,
+  "quantity_sale": 1,
+  "quantity_remain": 13,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "8/6/2024, 5:40:46 PM",
+  "updated_at": "8/6/2024, 5:40:46 PM"
+},
+{
+  "_id": {
+    "$oid": "65478df88a4b078c9177fb47"
+  },
+  "name": "Bún Cá Kiên Giang",
+  "description": "“Ai về Rạch Giá, Kiên Giang Ăn tô bún cá, chứa chan tình người”. Topping của món bún cá này gồm thịt cá lóc đồng, rau xanh, tôm và nước mắm ngon. Kết hợp với nước lèo ngọt thanh cùng bún tươi được chần mềm đã tạo nên một tô bún cá ngon tuyệt cho thực khách. Khi thưởng thức món bún cá Kiên Giang, bạn sẽ cảm nhận được vị ngọt của cá lóc, vị thanh mát của rau muống, hoa chuối và vị cay nồng của rau răm.",
+  "price": "45000",
+  "image": "uploads\\bun_ca_kien_giang.png",
+  "quantity": 15,
+  "quantity_sale": 0,
+  "quantity_remain": 15,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "8/6/2024, 5:43:36 PM",
+  "updated_at": "8/6/2024, 5:43:36 PM"
+},
+{
+  "_id": {
+    "$oid": "654a375a2bb6c3a91d1d7c08"
+  },
+  "name": "Bún Bò Cay Bạc Liêu",
+  "description": "Bún bò cay Bạc Liêu kích thích vị giác bởi vị cay nồng, nước dùng đỏ óng đẹp mắt, sánh nhẹ, mùi thơm hấp dẫn từ sả, hồi, quế... Thịt bò mềm mượt, dẻo nhưng không nát, chấm cùng đĩa muối ớt cay cay khiến người ăn xuýt xoa hít hà nhưng nhớ mãi không quên.",
+  "price": "35000",
+  "image": "uploads\\bun_bo_cay.png",
+  "quantity": 27,
+  "quantity_sale": 0,
+  "quantity_remain": 27,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "8/6/2024, 5:55:40 PM",
+  "updated_at": "8/6/2024, 5:55:40 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3d742bb6c3a91d1d7c09"
+  },
+  "name": "Hủ Tiếu Mỹ Tho",
+  "description": "Nguyên liệu làm nên hủ tiếu Mỹ Tho là sự kết hợp hài hòa giữa các sản vật địa phương và ảnh hưởng của ẩm thực Trung Hoa. Bánh hủ tiếu, với nguồn gốc từ gạo, phản ánh nền nông nghiệp lúa nước của Việt Nam. Tôm, thịt heo, và các loại hải sản khác nhấn mạnh vào sự gần gũi với thiên nhiên, sông nước của người dân miền Tây. Đặc biệt, việc sử dụng tôm tươi làm nguyên liệu chính là dấu ấn của ẩm thực Khmer, trong khi cách chế biến thịt và sử dụng các loại gia vị lại mang ảnh hưởng lớn từ ẩm thực Hoa.",
+  "price": "40000",
+  "image": "uploads\\hu_tieu_my_tho.png",
+  "quantity": 37,
+  "quantity_sale": 0,
+  "quantity_remain": 37,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "8/6/2024, 6:02:52 PM",
+  "updated_at": "8/6/2024, 6:02:52 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3e352bb6c3a91d1d7c0a"
+  },
+  "name": "Hủ Tiếu Sa Đéc",
+  "description": "Tô hủ tiếu Sa Đéc với nước súp trong, sợi bánh trắng, điểm vài miếng thịt, tim, gan, lòng heo, có khi tôm, thịt nạt bằm, kèm theo hẹ, xà lách, hành, chanh ớt,… bốc mùi thơm phức, ngay phút đầu gợi cho thực khách một bữa ăn ngon miệng.",
+  "price": "40000",
+  "image": "uploads\\hu_tieu_sa_dec.png",
+  "quantity": 42,
+  "quantity_sale": 0,
+  "quantity_remain": 42,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "8/6/2024, 6:05:05 PM",
+  "updated_at": "8/6/2024, 6:05:05 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3e9f2bb6c3a91d1d7c0b"
+  },
+  "name": "Lẩu Gà Ớt Hiểm",
+  "description": "Lẩu Gà Ớt Hiểm là một món ăn truyền thống rất phổ biến tại vùng Đồng bằng sông Cửu Long. Món ăn này sử dụng thịt gà tươi ngon, kết hợp với ớt hiểm (ớt sừng trâu) cay nồng để tạo nên nước lẩu đậm đà, đầy hương vị.",
+  "price": "400000",
+  "image": "uploads\\lau_ga_ot_hiem.png",
+  "quantity": 25,
+  "quantity_sale": 1,
+  "quantity_remain": 24,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:10:51 PM",
+  "updated_at": "8/6/2024, 6:10:51 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3eef2bb6c3a91d1d7c0c"
+  },
+  "name": "Lẩu Cá Thác Lác",
+  "description": "Một món ăn đậm đà hương vị của vùng sông nước miền Tây Việt Nam. Lẩu được nấu từ cá thác lác tươi ngon, kết hợp cùng các loại rau như bông súng, rau muống, nấm và gia vị như hành, gừng, ớt. Nước lẩu được hầm từ xương hoặc nước lèo, tạo nên hương vị đặc trưng, thơm ngon. Khi ăn, thực khách thường nhúng thịt cá, rau vào nước lẩu nóng hổi và thưởng thức cùng với cơm trắng. Đây là một món ăn bổ dưỡng, gắn liền với văn hóa ẩm thực miền Tây sông nước.",
+  "price": "368000",
+  "image": "uploads\\lau-ca_thac_lac.png",
+  "quantity": 30,
+  "quantity_sale": 0,
+  "quantity_remain": 30,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:12:11 PM",
+  "updated_at": "8/6/2024, 6:12:11 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3f322bb6c3a91d1d7c0d"
+  },
+  "name": "Lẩu Bần",
+  "description": "Mùa gió chướng, cứ độ khoảng tháng 5, tháng 6 âm lịch, dòng Ba Lai thơm phức mùi bần hoa bần. Từ đó, chim chóc cũng rủ nhau về đây, đua nhau chén thịt từng trái bần chín. Ngày còn là con nít, cứ chiều chiều, tôi cùng lũ bạn trong xóm hay chèo xuồng hái bần chấm muối ớt. Bữa nào hái được nhiều bần, cả bọn còn đùm túm món đặc sản miền Tây đem về cho má chấm cá kho. Một khi đã từng cắn trái bần, chắc hẳn chẳng có ai có thể nào quên được cái vị chan chát ấy, cả mùi lẫn vị không thể nào lẫn vào đâu được.",
+  "price": "200000",
+  "image": "uploads\\lau_ban.png",
+  "quantity": 10,
+  "quantity_sale": 0,
+  "quantity_remain": 10,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:20:18 PM",
+  "updated_at": "8/6/2024, 6:20:18 PM"
+},
+{
+  "_id": {
+    "$oid": "655adaba38665eeed0aef90a"
+  },
+  "name": "Lẩu Cá Kèo",
+  "description": "Lẩu cá kèo là món ngon đặc sản vùng Tây Nam Bộ. Những con cá kèo thân dài, nhỏ nhưng lại ngon không cưỡng nổi. Các ông, các anh, các chú thường ngồi nhâm nhi xiên cá kèo nướng, uống vài chén rượu bên đìa cá là cuộc sống buồn cũng hóa vui.",
+  "price": "498000",
+  "image": "uploads\\lau_ca_keo.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:32:10 PM",
+  "updated_at": "8/6/2024, 6:32:10 PM"
+},
+{
+  "_id": {
+    "$oid": "655adbfc38665eeed0aef90b"
+  },
+  "name": "Lẩu Cá Linh (Theo Mùa)",
+  "description": "Đối với ai mê món miền Tây sẽ rất “sành miệng”, chỉ thử qua một lần là biết ở đâu mang đúng cái hồn. Đặc biệt đối với món lẩu cá linh bông điên điển, bạn sẽ được thưởng thức cá linh và điên điển tươi ngon nhất, cùng các loại rau nhúng đi kèm đa dạng như hoa kim châm, so đũa… trong nước lẩu vị chua ngọt hấp dẫn. Mùa nước nổi miền Nam bộ bắt đầu từ tháng 9 đến tháng 11 hàng năm. Mùa này nơi đây thường xuất hiện rất nhiều cá linh. Đầu mùa chính là thời điểm cá linh ngon nhất của năm, bởi cá chưa quá lớn nên xương chưa cứng, bụng cá lại có mỡ nên ăn rất ngậy béo. Loại cá này được xem là đặc sản của mùa nước nổi miền Tây Nam bộ. Lưu ý: Lẩu cá linh chỉ có theo mùa (từ tháng 9 - 12 hàng năm). ",
+  "price": "600000",
+  "image": "uploads\\lau_ca_linh.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:41:32 PM",
+  "updated_at": "8/6/2024, 6:41:32 PM"
+},
+{
+  "_id": {
+    "$oid": "655e0a2ac0922b1da84bde78"
+  },
+  "name": "Lẩu Vịt Nấu Chao",
+  "description": "Thịt Vịt là món ăn dân dã được nhiều người yêu thích bởi hương vị thịt vô cùng đậm đà, giòn dai và ngọt mềm. nơi chuyên vịt quay, vịt nướng hay vịt áp chảo, lẩu vịt… Lẩu vịt nấu chao – món vịt được chọn từ loại vịt xiêm hay vịt cỏ, thịt nhiều và ít mỡ. Trước khi nấu, vịt được dùng ướp với chao trắng chao đỏ, xào cùng hành tím, tỏi, ninh kỹ từ trước, nên khi múc ra cho vào lẩu đã rất mềm ngọt. Khi nấu có thêm rất nhiều nguyên liệu đi kèm như: khoai cao, rau muống, bún, đường, nước mắm ngon, dầu ăn…Thịt vịt trước khi nấu được xào cho săn, đổ nước dừa xâm xấp. Nước lẩu vịt nấu chao vừa có vị cay nồng của chao trắng, chao đỏ, hòa quyện với sự ngọt mát của nước dừa, nước hầm xương.  Khoai môn được chiên sơ trước khi cho vào lẩu, nên ngọt, bùi mà vẫn không nát. Rau muống tươi xanh được dọn kèm để khách ăn đến đâu thì nhúng tới đó để giữ nguyên vị giòn ngọt. Ăn kèm với vịt nấu chao còn có bún sợi tươi và nước chấm với tỏi, ớt, gừng băm nhuyễn góp phần làm cho nồi lẩu vịt nấu vịt của bạn thêm đậm đà và ngon hơn.",
+  "price": "478000",
+  "image": "uploads\\lau_vit_nau_chao.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:45:22 PM",
+  "updated_at": "8/6/2024, 6:45:22 PM"
+},
+{
+  "_id": {
+    "$oid": "655e0a50c0922b1da84bde79"
+  },
+  "name": "Lẩu Mắm",
+  "description": "Lẩu Mắm là một trong những món ăn tiêu biểu và được yêu thích nhất của vùng Đồng bằng sông Cửu Long. Đây là sự kết hợp tinh tế giữa vị mặn, vị ngọt và vị chua của mắm cùng với các loại thịt, rau củ tươi ngon.",
+  "price": "440000",
+  "image": "uploads\\lau_mam.png",
+  "quantity": 28,
+  "quantity_sale": 0,
+  "quantity_remain": 28,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:48:00 PM",
+  "updated_at": "8/6/2024, 6:48:00 PM"
+},
+{
+  "_id": {
+    "$oid": "65e69af38b5751a492948cd4"
+  },
+  "name": "Lẩu Riêu Cua",
+  "description": "Lẩu Riêu Cua là một trong những món ăn truyền thống rất phổ biến và được yêu thích ở khu vực Đồng bằng sông Cửu Long. Đây là sự kết hợp hoàn hảo giữa vị ngọt thanh của nước dùng riêu cua cùng với những miếng cua tươi ngon.",
+  "price": "350000",
+  "image": "uploads\\lau_rieu_cua.png",
+  "quantity": 23,
+  "quantity_sale": 0,
+  "quantity_remain": 23,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "8/6/2024, 6:50:23 PM",
+  "updated_at": "8/6/2024, 6:50:23 PM"
+},
+{
+  "_id": {
+    "$oid": "66b20fbfe92a3baa952f40b6"
+  },
+  "name": "Cá Lóc Kho Tiêu",
+  "description": "Thịt cá lóc thơm ngon được chế biến bằng nhiều công thức khác nhau sẽ tạo nên những món ăn hấp dẫn khó cưỡng. Một trong số đó không thể thiếu cá lóc kho tiêu với hương vị miền quê, nó sẽ gợi cho bạn cảm giác như được đến mảnh đất miền Tây thân thương",
+  "price": "200000",
+  "image": "uploads\\ca_loc_kho_tieu.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/6/2024, 6:57:51 PM",
+  "updated_at": "8/6/2024, 7:28:57 PM"
+},
+{
+  "_id": {
+    "$oid": "66b21b86e92a3baa952f40b8"
+  },
+  "name": "Ốc Bươu Kho Sả Ớt",
+  "description": "Ốc kho sả ớt dậy mùi thơm đặc trưng của sả, ốc giòn sần sật, vị mặn ngọt cay hài hòa, ăn cùng cơm trắng rất ngon.",
+  "price": 250000,
+  "image": "uploads\\oc_kho_xa.png",
+  "quantity": 33,
+  "quantity_sale": 0,
+  "quantity_remain": 33,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/6/2024, 7:48:06 PM",
+  "updated_at": "8/6/2024, 7:48:06 PM"
+},
+{
+  "_id": {
+    "$oid": "66b21eb6e92a3baa952f40b9"
+  },
+  "name": "Mắm Tép",
+  "description": "Được làm từ những con tép tươi, nguyên vẹn, qua quá trình phơi khô và ủ men kỳ công, mắm tép sở hữu một sự hài hòa giữa vị mặn, vị chua và vị ngọt nhẹ. Khi thưởng thức, mùi thơm nồng nàn của mắm sẽ làm say lòng thực khách, kích thích vị giác",
+  "price": 60000,
+  "image": "uploads\\mam_tep.png",
+  "quantity": 40,
+  "quantity_sale": 0,
+  "quantity_remain": 40,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/6/2024, 8:01:42 PM",
+  "updated_at": "8/6/2024, 8:01:42 PM"
+},
+{
+  "_id": {
+    "$oid": "66b22421e92a3baa952f40ba"
+  },
+  "name": "Mắm Ba Khía",
+  "description": "Mắm ba khía là một loại mắm phổ biến ở vùng Nam bộ, được làm từ ba khía – một loài họ cua có càng to. Ba khía được tìm thấy chủ yếu ở các vùng nước lợ mặn từ Cần Thơ đến Sóc Trăng và Cà Mau, số lượng lớn nhất tại khu vực U Minh. Tên gọi của loài cua này xuất phát từ số lượng 3 gạch trên lưng của chúng",
+  "price": 109000,
+  "image": "uploads\\mam_ba_khia.png",
+  "quantity": 29,
+  "quantity_sale": 0,
+  "quantity_remain": 29,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/6/2024, 8:24:49 PM",
+  "updated_at": "8/6/2024, 8:24:49 PM"
+},
+{
+  "_id": {
+    "$oid": "66b2db376e5dd8e49ff1ec41"
+  },
+  "name": "Mắm Cá Lóc",
+  "description": "Mắm cá lóc được chế biến từ những con cá lóc tươi, to và chắc thịt. Cá lóc này phải là cá lóc đồng thì mới ngon được. Sau đó, người ra sẽ chế biến cùng gia vị và thính gạo để tạo nên món ngon khó có thể cưỡng. ",
+  "price": 119000,
+  "image": "uploads\\mam_ca_loc.png",
+  "quantity": 40,
+  "quantity_sale": 0,
+  "quantity_remain": 40,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/7/2024, 9:25:59 AM",
+  "updated_at": "8/7/2024, 9:25:59 AM"
+},
+{
+  "_id": {
+    "$oid": "66b2dc2d6e5dd8e49ff1ec42"
+  },
+  "name": "Mắm Cá Cơm",
+  "description": "Mắm cá cơm là một đặc sản của vùng đồng bằng sông Cửu Long và được nhiều người ưa chuộng. Được làm từ những con cá cơm tươi, mắm cá cơm có hương thơm đặc trưng và vị mặn đậm đà, khiến cho người ăn không thể quên được hương vị đặc biệt này.",
+  "price": 89000,
+  "image": "uploads\\mam_ca_com.png",
+  "quantity": 35,
+  "quantity_sale": 0,
+  "quantity_remain": 35,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/7/2024, 9:30:05 AM",
+  "updated_at": "8/7/2024, 9:30:05 AM"
+},
+{
+  "_id": {
+    "$oid": "66b2e15c6e5dd8e49ff1ec43"
+  },
+  "name": "Mắm Chưng Hột Vịt",
+  "description": "Những quả hột vịt được chọn lọc kỹ càng, to tròn, vỏ cứng và sáng bóng. Sau khi luộc chín tới, hột vịt được tẩm ướp trong nước mắm cùng các loại gia vị truyền thống như sả, tỏi, ớt, hành lá. Qua quá trình chưng nhỏ lửa trong vài giờ, các hương vị hòa quyện, tạo nên một món ăn mềm mại, dẻo dai với hương vị mặn nhẹ, thơm nồng của nước mắm, cân bằng với vị cay, thơm của rau củ. Điểm đặc biệt của món mắm chưng hột vịt miền Tây là sự gia tăng hàm lượng nước mắm và gia vị, mang lại sự đậm đà, phong phú về hương vị. Mỗi phần ăn chứa từ 5-7 quả hột vịt, được trình bày cẩn thận, kết hợp cùng cơm trắng hoặc bánh mì thơm ngon.",
+  "price": "95000",
+  "image": "uploads\\mam_chung_hot_vitt.png",
+  "quantity": 22,
+  "quantity_sale": 0,
+  "quantity_remain": 22,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "8/7/2024, 9:52:12 AM",
+  "updated_at": "8/7/2024, 9:52:42 AM"
+},
+{
+  "_id": {
+    "$oid": "66b2e3bd6e5dd8e49ff1ec44"
+  },
+  "name": "Gỏi Củ Hủ Dừa",
+  "description": "Gỏi củ hủ dừa miền Tây là một món ăn đặc trưng của vùng đồng bằng sông Cửu Long. Nó được làm từ củ hủ dừa - một loại rau dại mọc hoang ở địa phương. Củ hủ dừa được chọn lọc, gọt vỏ, ngâm trong nước cốt dừa tươi để tạo vị ngọt thanh đặc trưng. Sau đó, củ hủ dừa được trộn cùng các nguyên liệu khác như rau sống, tôm, thịt, đậu phộng và nước sốt chua cay. Sự kết hợp của các thành phần tạo nên một món ăn vô cùng hấp dẫn về hương vị, kết cấu.",
+  "price": "70000",
+  "image": "uploads\\goi_cu-hu_dua.png",
+  "quantity": 31,
+  "quantity_sale": 0,
+  "quantity_remain": 31,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 10:02:21 AM",
+  "updated_at": "8/7/2024, 10:09:33 AM"
+},
+{
+  "_id": {
+    "$oid": "66b38211de496698c12e674d"
+  },
+  "name": "Gỏi Rau Càng Cua",
+  "description": "Được chế biến từ những nguyên liệu tươi ngon như rau càng cua tươi, thịt bò, cùng với các loại rau sống, gia vị tinh tế, món gỏi này là sự kết hợp hoàn hảo giữa vị chua, ngọt, mặn và cay. Khi thưởng thức món gỏi rau càng cua, bạn sẽ cảm nhận được sự tươi mát của rau xanh, cùng với vị ngọt thanh của thịt bò. Món ăn này không chỉ khiến vị giác hài lòng mà còn mang lại cảm giác nhẹ nhàng, giúp bữa ăn trở nên thêm phần hoàn hảo.",
+  "price": 120000,
+  "image": "uploads\\goi_rau_cang_cua.png",
+  "quantity": 32,
+  "quantity_sale": 0,
+  "quantity_remain": 32,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 9:17:53 PM",
+  "updated_at": "8/7/2024, 9:17:53 PM"
+},
+{
+  "_id": {
+    "$oid": "66b384bbde496698c12e674e"
+  },
+  "name": "Gỏi Bồn Bồn",
+  "description": "Gỏi Bồn Bồn. Bồn bồn là tên gọi của một loài cỏ hoang, mới nghe qua tên đã kích thích trí tò mò của nhiều người, tuy là một loại cỏ hoang nhưng đây được xem là một loại đặc sản, bồn bồn mọc quanh các ao, ruộng vùng sông nước, tuy nhiên chúng chỉ thích hợp sinh sống ở một số nơi không phải ở đâu cũng dễ tìm loại cây hoang dại này. Do có vị giòn, ngọt nên bồn bồn cũng được chọn làm nguyên liệu chính để chế biến thành món gỏi ngon ở miền tây. Thành phần chính trong món gỏi bồn bồn: tôm khô, thịt ba chỉ, lỗ tai heo.... ",
+  "price": "110000",
+  "image": "uploads\\goi_bon_bon.png",
+  "quantity": 28,
+  "quantity_sale": 0,
+  "quantity_remain": 28,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 9:29:15 PM",
+  "updated_at": "8/7/2024, 9:30:33 PM"
+},
+{
+  "_id": {
+    "$oid": "66b3871fde496698c12e674f"
+  },
+  "name": "Gỏi Ngó Sen",
+  "description": "Để chế biến món Gỏi Ngó Sen, người ta sẽ lấy các đoạn ngó sen tươi, rửa sạch, gọt vỏ và cắt thành sợi hoặc miếng nhỏ. Sau đó, ngó sen sẽ được trộn cùng các nguyên liệu khác như tôm, thịt, rau sống (như cà rốt, diếp, húng quế), nước mắm, đường, chanh và một số gia vị khác.  Sự kết hợp giữa vị ngọt, giòn của ngó sen cùng với vị chua, ngọt, mặn của các nguyên liệu khác tạo nên một món gỏi vô cùng tươi mát, kích thích vị giác. Gỏi Ngó Sen thường được dùng như một món ăn nhẹ, giải nhiệt hoặc ăn kèm với cơm, bún.",
+  "price": 80000,
+  "image": "uploads\\goi_ngo_sen.png",
+  "quantity": 25,
+  "quantity_sale": 0,
+  "quantity_remain": 25,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 9:39:27 PM",
+  "updated_at": "8/7/2024, 9:39:27 PM"
+},
+{
+  "_id": {
+    "$oid": "66b388bbde496698c12e6750"
+  },
+  "name": "Gỏi Sầu Đâu",
+  "description": "Cây sầu đâu, sấu đồng, xoan công dụng chủ yếu là làm thuốc chữa bệnh: Võ cây, lá, hạt, rễ, hoa và trái, là loại cây mọc nhiều ở các tỉnh miền tây Kiên Giang, An Giang. Tuy có vị chát đắng nhưng lá cây sầu đâu vẫn được ưu tiên chọn làm món gỏi sầu đâu thơm ngon nổi tiếng khắp miền tây. Do có vị đắng nhẫn trước khi làm gỏi nên trụng sơ lá sầu đâu qua nước sôi, như vậy sẽ làm giảm đi vị đắng có ở trong lá. Món gỏi lá sấu đâu này có thể đem trộn với cà chua, dưa leo, xoài chua, nước me chua ngọt, món gỏi sầu đâu sẽ được thêm thịt ba chỉ, khô cá lóc, khô cá sặc tùy sở thích của mỗi người.",
+  "price": 70000,
+  "image": "uploads\\goi_sau_dau.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 9:46:19 PM",
+  "updated_at": "8/7/2024, 9:46:19 PM"
+},
+{
+  "_id": {
+    "$oid": "66b38e84de496698c12e6751"
+  },
+  "name": "Gỏi Đu Đủ",
+  "description": "Đu đủ là loại trái cây có hàm lượng dinh dưỡng cao, có công dụng bổ máu, giúp phục hồi gan, nhuận tràng.... Đặc biệt trong đu đủ chứa nhiều vitamin C, chất xơ, cali.... Hạt đu đủ có thể dùng làm thuốc, ngoài việc để trái ăn chín, đu đủ sống xanh, giòn có thể chế biến được rất nhiều loại gỏi. ",
+  "price": 60000,
+  "image": "uploads\\goi_du_du.png",
+  "quantity": 40,
+  "quantity_sale": 0,
+  "quantity_remain": 40,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 10:11:00 PM",
+  "updated_at": "8/7/2024, 10:11:00 PM"
+},
+{
+  "_id": {
+    "$oid": "66b3910cde496698c12e6752"
+  },
+  "name": "Gỏi Tép Bông Điên Điển ",
+  "description": "27/06/2024 Bởi Khám Phá Lịch Sử Gỏi tép bông điên điển, nghe cái tên thôi đã thấy nao lòng bởi sự kết hợp độc đáo giữa vị ngọt thanh của tép đồng, chút đăng đắng của bông điên điển hòa quyện cùng nước mắm chua ngọt đậm đà, tạo nên hương vị đặc trưng khó quên của miền Tây sông nước.",
+  "price": 90000,
+  "image": "uploads\\goi_tep_bong_dien_dien.png",
+  "quantity": 31,
+  "quantity_sale": 0,
+  "quantity_remain": 31,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 10:21:48 PM",
+  "updated_at": "8/7/2024, 10:21:48 PM"
+},
+{
+  "_id": {
+    "$oid": "66b39222de496698c12e6753"
+  },
+  "name": "Gỏi Xoài Khô Cá Lóc",
+  "description": "Gỏi xoài khô cá lóc món ăn quen thuộc dù chỉ nghe qua một lần đã không thể quên bởi sự hấp dẫn với trái xoài xanh, chua chua, giòn giòn trộn lẫn với món khô cá lóc nướng dai dai, thơm thơm, kết hợp với món nước mắm chua cay, mặn, ngọt làm tăng thêm tính kích thích cho vị giác. Món gỏi xoài khô cá lóc được dùng làm món khai vị, mồi nhắm rượu, bia vào các dịp tiệc, lễ, tết....",
+  "price": 100000,
+  "image": "uploads\\goi_xoai.png",
+  "quantity": 18,
+  "quantity_sale": 0,
+  "quantity_remain": 18,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 10:26:26 PM",
+  "updated_at": "8/7/2024, 10:26:26 PM"
+},
+{
+  "_id": {
+    "$oid": "66b39337de496698c12e6754"
+  },
+  "name": "Gỏi Ba Khía",
+  "description": "Ba khía là loại cua nhỏ sống tập trung ở vùng nước lợ, nước mặn: Sóc Trăng, Cà Mau nhưng tập trung chủ yếu là vùng U Minh do có ba gạch ở trên lưng nên được đặt với tên gọi là ba khía. Cách dùng đơn giản nhất từ ba khía đó là luộc, rang me.... Ngoài ra để bảo quản lâu hơn ba khía còn được dùng làm mắm, món ngon miền tây không quên kể đến là món gỏi ba khía, hương vị đậm đà, chua chua, cay cay, từ món ba khía trộn tỏi ớt, món gỏi ba khía trộn đu đủ, càng hấp dẫn hơn khi có chén cơm trắng ăn kèm vào những ngày trời mưa se lạnh thì không còn gì sánh bằng.",
+  "price": 150000,
+  "image": "uploads\\goi_ba_khia.png",
+  "quantity": 24,
+  "quantity_sale": 0,
+  "quantity_remain": 24,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "8/7/2024, 10:31:03 PM",
+  "updated_at": "8/7/2024, 10:31:03 PM"
+},
+{
+  "_id": {
+    "$oid": "66b394a3de496698c12e6755"
+  },
+  "name": "Cơm Trắng ( ST25 )",
+  "description": "Gạo ST25 đạt danh hiệu “Gạo ngon nhất thế giới năm 2019” và Á quân năm 2020. Gạo ST25 được người tiêu dùng yêu thích và lựa chọn là vì Gạo đạt chuẩn hạt dài và trắng trong, không bạc bụng. Khi cơm chín, hạt cơm mềm dẻo, dai, giữ nguyên hạt và có mùi thơm cốm nhẹ. Khi để nguội cơm vẫn giữ được độ ngon và dẻo, không bị khô cứng.",
+  "price": 25000,
+  "image": "uploads\\com_st25.jpg",
+  "quantity": 100,
+  "quantity_sale": 1,
+  "quantity_remain": 99,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "8/7/2024, 10:37:07 PM",
+  "updated_at": "8/7/2024, 10:37:07 PM"
+},
+{
+  "_id": {
+    "$oid": "66b39704de496698c12e6756"
+  },
+  "name": "Cơm Nếp Than",
+  "description": "Gạo nếp than là loại gạo nếp dẻo thơm, có màu tím than do chứa chất Anthocyanin - một hoạt chất chống oxy hóa. Loại gạo này nổi tiếng ở Việt Nam với rất nhiều lợi ích cho sức khỏe. Hàm lượng chất xơ cao trong gạo nếp than đóng vai trò là dưỡng chất bảo vệ hệ tiêu hóa, giúp ngăn ngừa các bệnh lý về táo bón, đầy hơi và các triệu chứng liên quan đến dạ dày hiệu quả. Các dinh dưỡng khác có trong gạo nếp than đảm bảo ổn định nguồn năng lượng trong cơ thể, hỗ trợ giải độc gan và ngăn chặn sự tích tụ của chất béo có hại trong gan.",
+  "price": 30000,
+  "image": "uploads\\com_nep_than.png",
+  "quantity": 50,
+  "quantity_sale": 0,
+  "quantity_remain": 50,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "8/7/2024, 10:47:16 PM",
+  "updated_at": "8/7/2024, 10:47:16 PM"
+},
+{
+  "_id": {
+    "$oid": "66b39886de496698c12e6757"
+  },
+  "name": "Bánh Hỏi",
+  "description": "Nguyên liệu chính để chế biến bánh hỏi bao gồm bột gạo nếp và nước cốt dừa tươi. Bột gạo nếp được nhào trộn với nước cốt dừa để tạo thành khối bột mịn, dẻo. Sau đó, bột sẽ được cho vào khuôn bánh hình ống hoặc tròn rồi được hấp chín. Bánh hỏi miền Tây có vỏ bánh mỏng, mềm, dẻo và có vị ngọt thanh từ nước cốt dừa. Nhân bánh được chế biến cầu kỳ, đa dạng và rất ngon miệng. Món ăn này thường được phục vụ kèm với các loại rau sống, thơm, tắc, chanh, ớt để ăn",
+  "price": 25000,
+  "image": "uploads\\banh_hoi.png",
+  "quantity": 40,
+  "quantity_sale": 0,
+  "quantity_remain": 40,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "8/7/2024, 10:53:42 PM",
+  "updated_at": "8/7/2024, 10:53:42 PM"
+},
+{
+  "_id": {
+    "$oid": "66b3a8e1de496698c12e6758"
+  },
+  "name": "Bánh Xèo",
+  "description": "Bánh xèo miền tây đã có từ lâu đời và nổi tiếng về mùi vị thơm ngon. Nguyên liệu làm bánh thì cũng giống như bánh khọt nhưng bánh được đổ trên một chảo to với phần nhân là đậu xanh, tôm, thịt, củ sắn, củ hủ dừa. Bánh xèo cũng ăn kèm với nước mắm và rau sống, đặc biệt là các loại rau dại và rau rừng tự nhiên, tốt cho sức khỏe.",
+  "price": 100000,
+  "image": "uploads\\banh_xeo.png",
+  "quantity": 30,
+  "quantity_sale": 0,
+  "quantity_remain": 30,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 12:03:29 AM",
+  "updated_at": "8/8/2024, 12:03:29 AM"
+},
+{
+  "_id": {
+    "$oid": "66b3ab2cde496698c12e6759"
+  },
+  "name": "Bánh Khọt",
+  "description": "Bánh khọt hình tròn, được đem chiên trên chiếc lò đất có nhiều lỗ độc đáo. Bánh khi chín sẽ có màu vàng ươm thơm nồng. Bột bánh xèo có nghệ, nước cốt dừa, trứng, hành gia vị, khi nướng người ta sẽ cho lên đậu xanh và tôm ở giữa bánh. Bánh khọt giòn dai sẽ được ăn kèm với dưa chua, rau sống và đặc biệt là chén nước mắm chanh tỏi ớt chua chua cay cay.",
+  "price": 60000,
+  "image": "uploads\\banh_khot.png",
+  "quantity": 41,
+  "quantity_sale": 1,
+  "quantity_remain": 40,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 12:13:16 AM",
+  "updated_at": "8/8/2024, 12:13:16 AM"
+},
+{
+  "_id": {
+    "$oid": "66b3adcbde496698c12e675a"
+  },
+  "name": "Bánh Ống Dừa Dứa",
+  "description": "Bánh ống lá dứa, món quà quê dân dã với hương thơm nồng nàn của lá dứa, vị ngọt béo của nước cốt dừa, đã trở thành một phần ký ức tuổi thơ của biết bao người con đất Việt. Mỗi khi thưởng thức, ta như được trở về miền quê yên bình, nơi có những cánh đồng lúa xanh ngát, những hàng dừa nghiêng mình trong gió.",
+  "price": 35000,
+  "image": "uploads\\banh_ong_dua_dua.png",
+  "quantity": 27,
+  "quantity_sale": 0,
+  "quantity_remain": 27,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 12:24:27 AM",
+  "updated_at": "8/8/2024, 12:24:27 AM"
+},
+{
+  "_id": {
+    "$oid": "66b48bc66c82b4dea1dc4066"
+  },
+  "name": "Bánh Cống",
+  "description": "Bánh cống là một trong những món đặc sản nổi tiếng của miền Tây được làm từ bột chiên, tôm, thịt, đậu xanh chấm với nước mắm chua ngọt, rất hấp dẫn. Bánh cống nóng hổi, thơm phức, nước chấm vừa vị, không quá nhạt cũng không quá ngọt, thích hợp cho cả người miền Bắc. Vỏ bánh cống giòn vừa phải, bên trong béo béo đậu xanh, tôm tươi, ngọt thịt,... Đặc biệt nước mắm tỏi ớt, dưa chua được làm từ cà rốt rất ngon.",
+  "price": 70000,
+  "image": "uploads\\banh_cong.png",
+  "quantity": 23,
+  "quantity_sale": 0,
+  "quantity_remain": 23,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 4:11:34 PM",
+  "updated_at": "8/8/2024, 4:11:34 PM"
+},
+{
+  "_id": {
+    "$oid": "66b4f2cf23b430db0f6303d2"
+  },
+  "name": "Bánh Cam, Bánh Còng",
+  "description": "Với những ai lớn lên ở miền tây thì chắc hẳn sẽ quên thuộc với những mâm bánh cam, bánh còng đầy ụ, được vác trên cao và được các cô chú rao bán khắp làng trên xóm dưới. Tên bánh cũng xuất phát từ hình dạng tròn xoe như trái cam và vòng tròn như chiếc còng. Bánh được làm từ bột nếp và bột gạo, đem chiên giòn lên, ăn không ngấy. Bánh cam sẽ có nhân đậu xanh còn bánh còng thì không.",
+  "price": "60000",
+  "image": "uploads\\banh_cam_banh_cong.png",
+  "quantity": 19,
+  "quantity_sale": 0,
+  "quantity_remain": 19,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 11:31:11 PM",
+  "updated_at": "8/8/2024, 11:33:23 PM"
+},
+{
+  "_id": {
+    "$oid": "66b4f44723b430db0f6303d3"
+  },
+  "name": "Bánh Da Lợn",
+  "description": "Bánh da lợn miền tây, loại bánh ngọt có nhiều lớp bột đan xen với nhau rất độc đáo. Loại bánh này từ con nít tới người lớn, từ phụ nữ đến đàn ông đều mê, ngay cả ăn chay hay ăn mặn đều được hết. Bánh thường có màu xanh của lá dứa hoặc màu tím của khoai môn.",
+  "price": 50000,
+  "image": "uploads\\banh_da_lon.png",
+  "quantity": 37,
+  "quantity_sale": 0,
+  "quantity_remain": 37,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 11:37:27 PM",
+  "updated_at": "8/8/2024, 11:37:27 PM"
+},
+{
+  "_id": {
+    "$oid": "66b4f55723b430db0f6303d4"
+  },
+  "name": "Bánh Tằm Bì Nước Cốt",
+  "description": "Một món bánh đặc biệt trong những loại bánh đặc sản miền tây. Thường thì các loại bánh chỉ ăn kèm với nước mắm hoặc nước cốt dừa, bánh tằm bì lại dùng cùng lúc cả hai laoị nước dùng này, khiến nhiều người lần đầu tiên ăn đều lo ngại sẽ bị tào tháo rượt. Tuy nhiên khi ăn vào mới thấy hai thứ này trộn chung lại hợp vô cùng, tạo nên một vị lạ đặc trưng và hết sức thơm ngon.",
+  "price": 50000,
+  "image": "uploads\\banh_tam_bi.png",
+  "quantity": 26,
+  "quantity_sale": 0,
+  "quantity_remain": 26,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 11:41:59 PM",
+  "updated_at": "8/8/2024, 11:41:59 PM"
+},
+{
+  "_id": {
+    "$oid": "66b4f72723b430db0f6303d5"
+  },
+  "name": "Bánh Thuẫn",
+  "description": "Giống như một thức bánh ngọt của miền Tây,đặc điểm chung của bánh thuẫn chính là hương vị xốp xốp giòn giòn có vị ngậy ví như bánh bông lan.",
+  "price": 70000,
+  "image": "uploads\\banh_thuan.png",
+  "quantity": 34,
+  "quantity_sale": 0,
+  "quantity_remain": 34,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/8/2024, 11:49:43 PM",
+  "updated_at": "8/8/2024, 11:49:43 PM"
+},
+{
+  "_id": {
+    "$oid": "66b5675dcf6cdef4cc1f5bbb"
+  },
+  "name": "Bánh Lá Rau Mơ",
+  "description": "Bánh lá rau mơ hay còn gọi là bánh lá mít, bánh nắn lá, bánh lá... là món bánh ăn vặt mà hầu như đều ghi dấu trong ký ức mỗi người, thậm chí nhiều năm về sau khi đã trưởng thành thì người ta vẫn còn thích nhâm nhi món bánh này không chỉ để thỏa cơn thèm mà như để ôn lại chút kỷ niệm ngày xưa. Do bánh lá rau mơ rất mỏng nên việc hấp bánh cực nhanh chín. Khoảng 5 phút là đã có thể cho ra lò một mẻ bánh chín thơm nồng. Điểm đặc biệt của loại bánh này là khi ở dạng bột thì bánh có màu xanh của lá mơ nhưng sau khi hấp chín thì bánh đổi màu xanh đen sậm.",
+  "price": 35000,
+  "image": "uploads\\banh_la_rau_mo.png",
+  "quantity": 22,
+  "quantity_sale": 0,
+  "quantity_remain": 22,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/9/2024, 7:48:29 AM",
+  "updated_at": "8/9/2024, 7:48:29 AM"
+},
+{
+  "_id": {
+    "$oid": "66b5691ccf6cdef4cc1f5bbc"
+  },
+  "name": "Bánh Lọt",
+  "description": "Một món ăn vặt gắn liền với tuổi thơ và giờ lại thành một loại bánh đặc sản miền tây vừa ngon vừa lạ. Bánh lọt có hình sợi nhỏ, màu xanh tươi tắn của lá dứa. Bánh lọt thường được ăn vào những ngày nắng nóng. Vị thơm của bánh lọt kết hợp vị béo của nước cốt dừa, cùng một chút lạnh của nước đá sẽ tạo cảm giác thanh mát, sảng khoái giữa những ngày hè nóng nực, oi bức. .Các món bánh miền Tây thật biết chiều lòng mọi thực khách khi sở hữu đủ các loại đặc sản hấp dẫn. ",
+  "price": "35000",
+  "image": "uploads\\banh_lot.png",
+  "quantity": 29,
+  "quantity_sale": 0,
+  "quantity_remain": 29,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/9/2024, 7:55:56 AM",
+  "updated_at": "8/9/2024, 7:56:45 AM"
+},
+{
+  "_id": {
+    "$oid": "66b56b08cf6cdef4cc1f5bbd"
+  },
+  "name": "Bánh Tai Yến",
+  "description": "Sở dĩ được gọi là bánh tai yến bởi hình dáng của bánh khá giống tổ yến, bên cạnh những món bánh miền tây được nhiều du khách ưa thích như bánh bò thốt nốt miền tây và bánh ít trần miền tây thì đây cũng là món đặc sản được nhiều người ưa chuộng, trong đó hương vị bánh giòn giòn còn phần bên ngoài lại dẻo xốp từa tựa như món bánh bò miền tây vậy.",
+  "price": 30000,
+  "image": "uploads\\banh_tai_yen.png",
+  "quantity": 34,
+  "quantity_sale": 0,
+  "quantity_remain": 34,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/9/2024, 8:04:08 AM",
+  "updated_at": "8/9/2024, 8:04:08 AM"
+},
+{
+  "_id": {
+    "$oid": "66b56c15cf6cdef4cc1f5bbe"
+  },
+  "name": "Bánh Lá Dừa",
+  "description": "Với nguyên liệu không quá cầu kì, cách làm đơn giản nhưng hương vị thì đủ làm say đắm những thực khách khó tính nhất. Bánh lá dừa hầu như có mặt khắp ở các tỉnh Đồng bằng sông Cửu Long, nổi tiếng nhất chính là bánh dừa Bến Tre. Chỉ tầm khoảng 5000 đồng/cái, bánh lá dừa vừa rẻ, vừa ngon đã trở thành món quà quê của biết bao thế hệ trẻ thơ. miền tây",
+  "price": 40000,
+  "image": "uploads\\banh_la_dua.png",
+  "quantity": 40,
+  "quantity_sale": 0,
+  "quantity_remain": 40,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "8/9/2024, 8:08:37 AM",
+  "updated_at": "8/9/2024, 8:08:37 AM"
+},
+{
+  "_id": {
+    "$oid": "66b56eadcf6cdef4cc1f5bbf"
+  },
+  "name": "Gà Đốt Ô Thum",
+  "description": "Gà nướng đốt Ô Thum, một món ăn đặc sản phổ biến ở An Giang, tỏa ra sức hút khó cưỡng với du khách. Hương vị của chiếc gà nướng này thật sự là điều đặc biệt, không chỉ bởi vị ngon ngọt tự nhiên của gà mà còn nhờ vào mùi thơm của lá chúc, tạo nên một hòa quyện tuyệt vời. Khi thưởng thức món ăn này, bạn sẽ cảm nhận được sự dai giòn của thịt gà kết hợp hoàn hảo với hương vị ngọt ngào và mùi thơm dễ chịu. Đây chắc chắn là một trải nghiệm ẩm thực tuyệt vời mà bạn không thể bỏ qua khi đến với An Giang.",
+  "price": 250000,
+  "image": "uploads\\ga_dot_o_thum.png",
+  "quantity": 28,
+  "quantity_sale": 0,
+  "quantity_remain": 28,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:19:41 AM",
+  "updated_at": "8/9/2024, 8:19:41 AM"
+},
+{
+  "_id": {
+    "$oid": "66b56fd1cf6cdef4cc1f5bc0"
+  },
+  "name": "Gà Hấp Lá Sen",
+  "description": "Lá sen đã trở thành nguyên liệu quen thuộc trong các món ăn của người Việt bởi hương thơm nhẹ nhàng mà lá sen mang lại cho món ăn. Lá sen kết hợp thêm thịt gà sẽ giúp món ăn có vị rất ngọt và siêu siêu thơm. Lá sen còn có tác dụng an thần giúp ngủ ngon, giải nhiệt và giảm mỡ máu hỗ trợ giảm cân rất hiệu quả. ",
+  "price": 250000,
+  "image": "uploads\\ga_hap_la_sen.png",
+  "quantity": 24,
+  "quantity_sale": 0,
+  "quantity_remain": 24,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:24:33 AM",
+  "updated_at": "8/9/2024, 8:24:33 AM"
+},
+{
+  "_id": {
+    "$oid": "66b570fbcf6cdef4cc1f5bc1"
+  },
+  "name": "Cá Tai Tượng Chiên Xù",
+  "description": "Cá tai tượng chiên xù là món ăn truyền thống của Việt Nam có nguồn gốc từ vùng đồng bằng sông Cửu Long. Món ăn đặc sản này được làm bằng cách chiên cá tai tượng cho đến khi giòn và chín hoàn toàn, sau đó có thể ăn ngay. Những miếng cá tai tượng mềm và nhiều thịt thường được trộn với dưa chuột, dưa chua và rau thơm, sau đó được gói trong bánh tráng. Các cuộn thường được chấm với nước sốt chua ngọt đặc biệt làm từ nước mắm, ớt cay và tỏi. Trước khi ăn, cá đôi khi được rắc thêm đậu phộng rang xay và thường được ăn kèm với chanh, làm mồi là ngon bá cháy",
+  "price": 120000,
+  "image": "uploads\\ca_tai_tuong_chien_xu.png",
+  "quantity": 30,
+  "quantity_sale": 0,
+  "quantity_remain": 30,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:29:31 AM",
+  "updated_at": "8/9/2024, 8:29:31 AM"
+},
+{
+  "_id": {
+    "$oid": "66b57302cf6cdef4cc1f5bc2"
+  },
+  "name": "Cá Lóc Nướng chui",
+  "description": "Cá lóc nướng chui khi ăn cùng với bia hay rượu sẽ trở nên vô cùng hấp dẫn. Hương vị thơm ngon của cá lóc, kết hợp với độ mặn, cay, chua của các loại nước chấm, lại được làm nổi bật thêm bởi độ đắng, chua của bia hoặc độ cay nồng của rượu, tạo nên một sự kết hợp hài hòa và vô cùng kích thích vị giác.  Từng miếng cá lóc nướng, khi được nhấm nháp cùng ngụm bia lạnh hoặc hớp rượu nồng ấm, sẽ mang lại một trải nghiệm ẩm thực thú vị. Hương vị đậm đà của cá lóc sẽ \"gột rửa\" cái vị đắng, chua của bia và rượu, còn bia và rượu sẽ làm tăng thêm sự ngon miệng của món cá lóc.  Đây chính là lý do vì sao món cá lóc nướng chui luôn được coi là một trong những món nhậu \"bất hủ\" và không thể thiếu khi có nhóm bạn sum họp, thưởng thức bia rượu.",
+  "price": 160000,
+  "image": "uploads\\ca_loc_nuong_chui.png",
+  "quantity": 30,
+  "quantity_sale": 0,
+  "quantity_remain": 30,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:38:10 AM",
+  "updated_at": "8/9/2024, 8:38:10 AM"
+},
+{
+  "_id": {
+    "$oid": "66b573f7cf6cdef4cc1f5bc3"
+  },
+  "name": "Ốc Bươu Nướng Tiêu Xanh",
+  "description": "Ốc bươu là một loại ốc nhỏ, tròn và có vỏ cứng, rất phổ biến ở các vùng ven biển Việt Nam. Khi được nướng chín trên bếp than hoa, vỏ ốc sẽ chuyển sang màu vàng ươm, bên trong là phần thịt ốc dai dai, săn chắc và đầy vị. Khi ăn, thực khách sẽ dùng tay bẻ vỏ ốc, lấy phần thịt thơm ngon và chấm vào một ít nước chấm chua cay. Hương vị của tiêu xanh quyện cùng vị ngọt của thịt ốc tạo nên sự kết hợp vô cùng hài hòa và kích thích vị giác.  Ốc bươu nướng tiêu xanh là món nhậu lý tưởng, phù hợp để thưởng thức cùng với các loại bia, rượu.",
+  "price": 80000,
+  "image": "uploads\\oc_buou_nuong_tieu_xanh.png",
+  "quantity": 34,
+  "quantity_sale": 0,
+  "quantity_remain": 34,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:42:15 AM",
+  "updated_at": "8/9/2024, 8:42:15 AM"
+},
+{
+  "_id": {
+    "$oid": "66b574e3cf6cdef4cc1f5bc4"
+  },
+  "name": "Rượu Sen",
+  "description": "Về hương vị, rượu sen thường có màu vàng nhạt đến vàng hơi xanh, mang hương thơm nhẹ nhàng của hoa sen cùng với vị ngọt dịu và thanh mát. Độ cồn thường ở mức trung bình, khoảng 18-20 độ.  Rượu sen được xem là một loại rượu quý, thường dùng để dâng trào, phối với các món ăn Việt Nam hoặc thưởng thức như một loại rượu vang sang trọng. Nó mang ý nghĩa tâm linh, thể hiện sự tinh khiết, cao quý và may mắn.",
+  "price": 500000,
+  "image": "uploads\\Ruou_sen.png",
+  "quantity": 50,
+  "quantity_sale": 0,
+  "quantity_remain": 50,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:46:11 AM",
+  "updated_at": "8/9/2024, 8:46:11 AM"
+},
+{
+  "_id": {
+    "$oid": "66b575a9cf6cdef4cc1f5bc5"
+  },
+  "name": "Rượu Sim Rừng",
+  "description": "Về hương vị, rượu sim rừng thường có màu tím đỏ hoặc tím sẫm, mang hương thơm đặc trưng của quả sim cùng với vị chua dịu, hơi ngọt và một chút vị đắng nhẹ.  Rượu sim rừng được xem là một loại rượu quý, có nguồn gốc từ thiên nhiên, mang nhiều giá trị dinh dưỡng và tác dụng tốt cho sức khỏe. Nó được ưa chuộng làm quà biếu, sử dụng trong các nghi lễ truyền thống hoặc thưởng thức như một loại rượu vang đặc sản.",
+  "price": 400000,
+  "image": "uploads\\ruou_sim_rung.png",
+  "quantity": 60,
+  "quantity_sale": 1,
+  "quantity_remain": 59,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 8:49:29 AM",
+  "updated_at": "8/9/2024, 8:49:29 AM"
+},
+{
+  "_id": {
+    "$oid": "66b57da4cf6cdef4cc1f5bc6"
+  },
+  "name": "Rượu Gò Đen",
+  "description": "Về hương vị, rượu gò đen thường có màu đen sẫm, mang hương thơm đặc trưng của quả gò đen cùng với vị hơi chua, ngọt và chút vị đắng đậm đà.  Rượu gò đen được xem là một loại rượu quý hiếm, có nguồn gốc từ thiên nhiên, mang nhiều giá trị dinh dưỡng và tác dụng tốt cho sức khỏe. Nó được ưa chuộng làm quà biếu, sử dụng trong các nghi lễ truyền thống hoặc thưởng thức như một loại rượu đặc sản vùng Tây Nguyên.",
+  "price": 450000,
+  "image": "uploads\\ruou_go_den.png",
+  "quantity": 55,
+  "quantity_sale": 0,
+  "quantity_remain": 55,
+  "category_id": {
+    "$oid": "66af7de9c9df270d709c8294"
+  },
+  "created_at": "8/9/2024, 9:23:32 AM",
+  "updated_at": "8/9/2024, 9:23:32 AM"
+},
+{
+  "_id": {
+    "$oid": "66b58eb7cf6cdef4cc1f5bc7"
+  },
+  "name": "Nem Lai Vung",
+  "description": "Về hương vị, nem lai Miền Tây mang đậm hương thơm của thịt, vị ngọt của rau củ, cộng thêm sự cân bằng giữa mặn, chua, ngọt từ các gia vị. Khi ăn, nem thường được chấm với nước chấm chua ngọt hoặc ăn kèm với các loại rau sống.  Nem lai Miền Tây là một món ăn dân dã, bình dị nhưng lại rất đặc trưng và được yêu thích ở vùng đất sông nước này. Nó góp phần tạo nên bản sắc ẩm thực độc đáo của Miền Tây.  Share",
+  "price": 100000,
+  "image": "uploads\\nem_lai_vung.png",
+  "quantity": 64,
+  "quantity_sale": 0,
+  "quantity_remain": 64,
+  "category_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "created_at": "8/9/2024, 10:36:23 AM",
+  "updated_at": "8/9/2024, 10:36:23 AM"
+},
+{
+  "_id": {
+    "$oid": "66b58fefcf6cdef4cc1f5bc8"
+  },
+  "name": "Đường Thốt Nốt",
+  "description": "Đường thốt nốt được làm từ quả thốt nốt, một loại cây mọc rất phổ biến ở các vùng đất ngập nước ở miền Tây. Quả thốt nốt có hình trụ dài, vỏ màu nâu, bên trong là một lõi giống như bột nhão. Về hương vị, đường thốt nốt có vị ngọt thanh, dai dẳng, ngậy béo và rất thơm. Nó có thể được ăn trực tiếp hoặc dùng làm nguyên liệu chế biến các món ăn khác như bánh, chè, sữa chua...  Đường thốt nốt không chỉ là một món ăn đặc sản mà còn có ý nghĩa văn hóa, lịch sử lâu đời của người dân miền Tây. Nó gắn liền với nếp sống, phong tục tập quán của vùng đất sông nước này.",
+  "price": 60000,
+  "image": "uploads\\duong_thot_not.png",
+  "quantity": 60,
+  "quantity_sale": 0,
+  "quantity_remain": 60,
+  "category_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "created_at": "8/9/2024, 10:41:35 AM",
+  "updated_at": "8/9/2024, 10:41:35 AM"
+},
+{
+  "_id": {
+    "$oid": "66b60ded73f942f13209d325"
+  },
+  "name": "Bánh Phồng Tôm Cà Mau",
+  "description": "Bánh phồng tôm Cà Mau là một món ăn dân dã và nổi tiếng của vùng đất Cà Mau, Việt Nam. Đây là một loại bánh được làm từ những nguyên liệu đơn giản như bột gạo, tôm khô và gia vị.  Bột gạo tạo nên phần vỏ bánh, làm cho bánh có độ giòn và xốp. Tôm khô, được chọn những con tôm tươi và sấy khô, sau đó được nghiền nhỏ và trộn đều vào bột, mang lại hương vị đặc trưng của món bánh. Người ta thường sử dụng một số gia vị như muối, tiêu, hạt nêm để tăng thêm hương vị cho bánh.",
+  "price": 70000,
+  "image": "uploads\\banh_phong_tom_ca_mau.png",
+  "quantity": 31,
+  "quantity_sale": 0,
+  "quantity_remain": 31,
+  "category_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "created_at": "8/9/2024, 7:39:09 PM",
+  "updated_at": "8/9/2024, 7:39:09 PM"
+},
+{
+  "_id": {
+    "$oid": "66b60ea073f942f13209d326"
+  },
+  "name": "Dừa Sáp Trà Vinh",
+  "description": "Phần thịt dừa của dừa sáp có độ dày khoảng 2-3 cm, phần ruột bên trong rỗng. Đặc điểm nổi bật của dừa sáp là phần thịt có màu trắng ngà, mịn màng và mềm mại, có cấu trúc giống như sáp ong. Khi ăn, phần thịt dừa sẽ tan chảy trong miệng, mang lại cảm giác thơm ngon và béo ngậy.  Dừa sáp Trà Vinh được ví như \"ngọc trắng\" của vùng đất này. Nó có giá trị dinh dưỡng cao, chứa nhiều vitamin, khoáng chất và chất béo có lợi cho sức khỏe. Loại dừa này thường được chế biến thành các món ăn như dừa sáp dầm, nước dừa sáp, hay được dùng như một loại trái cây tráng miệng.",
+  "price": 80000,
+  "image": "uploads\\dua_sap_tra_vinh.png",
+  "quantity": 70,
+  "quantity_sale": 0,
+  "quantity_remain": 70,
+  "category_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "created_at": "8/9/2024, 7:42:08 PM",
+  "updated_at": "8/9/2024, 7:42:08 PM"
+},
+{
+  "_id": {
+    "$oid": "66b618ae73f942f13209d327"
+  },
+  "name": "Kẹo Dừa",
+  "description": "Kẹo dừa miền Tây là một món ăn đặc sản nổi tiếng của vùng đất miền Tây Nam Bộ, Việt Nam. Đây là sản phẩm được chế biến từ thịt dừa tươi, kết hợp với các nguyên liệu khác để tạo nên một món kẹo độc đáo và hấp dẫn. Kẹo dừa miền Tây có vị ngọt thanh, đậm đà hương vị dừa, kết cấu dẻo dai, dễ nhai. Loại kẹo này thường được dùng như một món ăn vặt hoặc mứt tráng miệng. Nó cũng có thể được dùng để chế biến thành các món khác như bánh kẹo, sữa chua dừa, chè dừa... ",
+  "price": "80000",
+  "image": "uploads\\keo_dua.png",
+  "quantity": 80,
+  "quantity_sale": 0,
+  "quantity_remain": 80,
+  "category_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "created_at": "8/9/2024, 8:25:02 PM",
+  "updated_at": "8/9/2024, 8:27:01 PM"
+},
+{
+  "_id": {
+    "$oid": "66b61bc773f942f13209d328"
+  },
+  "name": "Hủ Tiếu Khô Sa Đéc",
+  "description": "Điều đặc biệt ở sợi hủ tiếu khô Sà Đéc là chúng được làm rất công phu, sử dụng những kỹ thuật truyền thống độc đáo của người dân địa phương. Quá trình sấy khô, tạo hình cũng như bảo quản đòi hỏi bàn tay khéo léo và kinh nghiệm lâu năm.  Khi đã qua chế biến, những sợi hủ tiếu khô này sẽ trở thành nguyên liệu chính cho các món ăn đặc sản như hủ tiếu khô, hủ tiếu gầu, mì Quảng... Đây thực sự là một sản phẩm độc đáo, phản ánh bản sắc ẩm thực miền Tây.",
+  "price": 50000,
+  "image": "uploads\\hu_tieu_kho_sa_dec.png",
+  "quantity": 50,
+  "quantity_sale": 0,
+  "quantity_remain": 50,
+  "category_id": {
+    "$oid": "66af8191c9df270d709c8295"
+  },
+  "created_at": "8/9/2024, 8:38:15 PM",
+  "updated_at": "8/9/2024, 8:38:15 PM"
+}]

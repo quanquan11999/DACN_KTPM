@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "654606028130eae5d9f7b7d0"
+  },
+  "username": "dieuphoi@",
+  "password": "$2a$08$t5gsfKHXI6feUA/YdG1Ai.mpSYN7WKIvykdgTfW52ulTezPrt1JXm",
+  "name": "Ngô Thanh Phong",
+  "phone": "0123456789",
+  "address": "Vĩnh Thuận, Kiên Giang",
+  "role": "Quản lý kho hàng",
+  "isLocked": 0
+},
+{
+  "_id": {
+    "$oid": "654606b88130eae5d9f7b7d1"
+  },
+  "username": "ketoan@",
+  "password": "$2a$08$u8xOIRZyWBcldIZoxG0b1uAQUDaDD2Fmx5oEMVR8/gTMrCSjV5Pr6",
+  "name": "Nguyễn Đỗ Minh Quân",
+  "phone": "0337019125",
+  "address": "Dĩ An, Bình Dương",
+  "role": "Quản lý đơn hàng"
+},
+{
+  "_id": {
+    "$oid": "6546070a8130eae5d9f7b7d2"
+  },
+  "username": "admin@",
+  "password": "$2a$08$s/xlaoJhKW2KCZUjfywbh.2qkdrzMKWdsS3YQMQUkzsBoD3.tkVKe",
+  "name": "Ngô Ngọc Tuyền",
+  "phone": "0349424470",
+  "address": "Vĩnh Thuận, Kiên Giang",
+  "role": "Tổng quản lý",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDYwNzBhODEzMGVhZTVkOWY3YjdkMiIsImlhdCI6MTcyMzkwMDg1NywiZXhwIjoxNzIzOTg3MjU3fQ.FikuE8eXfXmAMr0ASCx4LUG-vFsOtceZN3kbsM94xzc"
+}]

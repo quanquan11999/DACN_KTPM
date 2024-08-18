@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66adf10bde4704ce0ebbf158"
+  },
+  "email": "tuyentuyen@gmail.com",
+  "password": "$2a$08$eRQcBdrnvI01JBR5VneBRuVWbrmORpVskCdBo7CZrL46qkL6WT5v2",
+  "name": "Tuyền Tuyền",
+  "phone": "0948337762",
+  "birthday": "2003-12-06",
+  "gender": 0,
+  "address": "419 Lê thị riêng, TPHCM",
+  "cart": [],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YWRmMTBiZGU0NzA0Y2UwZWJiZjE1OCIsImlhdCI6MTcyMzcyODM0OCwiZXhwIjoxNzIzODE0NzQ4fQ.WRviCIMIFyas9TMFDkcOGxmWw-239ooIxxby-3C5mtE"
+},
+{
+  "_id": {
+    "$oid": "66afad648cfcccd853e924cd"
+  },
+  "email": "quanquan@gmail.com",
+  "password": "$2a$08$LB4EERAXBPTxw0sAU7grrOCGjukZYMZfQKqiNyI2DZ51upxH4eFn2",
+  "name": "Quân Quân",
+  "phone": "0398163423",
+  "birthday": "2003-09-19",
+  "gender": 1,
+  "address": "Yên Định, Thanh ",
+  "cart": [],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YWZhZDY0OGNmY2NjZDg1M2U5MjRjZCIsImlhdCI6MTcyMjc4OTIzMSwiZXhwIjoxNzIyODc1NjMxfQ.Pj4d8dWSMhMOVNBmAcgP2ET6ozzBYVIn-qxwgw-0M1w"
+},
+{
+  "_id": {
+    "$oid": "66afadff8cfcccd853e924ce"
+  },
+  "email": "hoahoa@gmail.com",
+  "password": "$2a$08$kW8V29BNNYjEU7B/WWDsG.b811ysy7R4/ACQdRrLi10txjWumKPlm",
+  "name": "Hoa Hoa",
+  "phone": "0987654321",
+  "birthday": "2003-08-14",
+  "gender": 0,
+  "address": "Sa Đéc, Đồng Tháp",
+  "cart": []
+},
+{
+  "_id": {
+    "$oid": "66afae8b8cfcccd853e924cf"
+  },
+  "email": "LaLa@gmail.com",
+  "password": "$2a$08$L7i5QU5EHblPOsRYqbu8b.7MqvhsdfgQd0uzyfbVTMnsVkqgVZnv6",
+  "name": "Lá Lá",
+  "phone": "0123567890",
+  "birthday": "2003-01-04",
+  "gender": 1,
+  "address": "Gò Vấp, TPHCM",
+  "cart": []
+}]
